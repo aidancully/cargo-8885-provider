@@ -1,5 +1,5 @@
 [package]
-name = "cargo-8885-provider"
+name = "cargo8885"
 version = "0.1.0"
 authors = ["Aidan Cully <github@aidan.users.panix.com>"]
 edition = "2018"
